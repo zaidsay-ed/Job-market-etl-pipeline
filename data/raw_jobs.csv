@@ -1,0 +1,5 @@
+job_title,company,location,salary,skills,posted_date,job_type
+Data Analyst Intern,Company A,Vancouver BC,$25/hour,"Python, SQL, Excel",2026-03-10,Hybrid
+ML Intern,Company B,Toronto ON,$30/hour,"Python, TensorFlow, SQL",2026-03-12,Remote
+Data Engineer Co-op,Company C,Vancouver BC,,"Python, ETL, SQL, Airflow",2026-03-14,Onsite
+Data Analyst,Company D,Remote,$28/hour,"Python, Power BI, SQL",2026-03-11,Remote
