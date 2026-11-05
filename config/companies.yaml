@@ -30,6 +30,5 @@ companies:
   - { name: Figma,        ats: greenhouse, slug: figma }
   - { name: Notion,       ats: ashby,      slug: notion }
   - { name: Ramp,         ats: ashby,      slug: ramp }
-  - { name: Plaid,        ats: lever,      slug: plaid }
   # Add Vancouver companies you want to track here, e.g.
   # - { name: Example Co, ats: lever, slug: exampleco }
