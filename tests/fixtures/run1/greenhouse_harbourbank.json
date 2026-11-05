@@ -1,0 +1,70 @@
+{
+ "jobs": [
+  {
+   "id": 5201,
+   "title": "Data Analyst Co-op (4 months)",
+   "location": {
+    "name": "vancouver, bc"
+   },
+   "absolute_url": "https://boards.greenhouse.io/x/jobs/5201",
+   "updated_at": "2026-10-12T17:00:00Z",
+   "first_published": "2026-10-12T17:00:00Z",
+   "content": "&lt;p&gt;Support reporting with SQL, Power BI and Microsoft Excel. Python and pandas are an asset.&lt;/p&gt;&lt;p&gt;Hourly rate: 28 to 32 CAD&lt;/p&gt;",
+   "departments": [
+    {
+     "name": "Engineering"
+    }
+   ],
+   "offices": [
+    {
+     "name": "vancouver, bc"
+    }
+   ]
+  },
+  {
+   "id": 5202,
+   "title": "Quantitative Data Scientist",
+   "location": {
+    "name": "Toronto"
+   },
+   "absolute_url": "https://boards.greenhouse.io/x/jobs/5202",
+   "updated_at": "2026-10-05T17:00:00Z",
+   "first_published": "2026-10-05T17:00:00Z",
+   "content": "&lt;p&gt;Build credit risk models in Python with scikit-learn and NumPy. Strong in R, SQL.&lt;/p&gt;&lt;p&gt;The salary range is $120,000 to $140,000.&lt;/p&gt;",
+   "departments": [
+    {
+     "name": "Engineering"
+    }
+   ],
+   "offices": [
+    {
+     "name": "Toronto"
+    }
+   ]
+  },
+  {
+   "id": 5203,
+   "title": "",
+   "location": {
+    "name": "Toronto"
+   },
+   "absolute_url": "https://boards.greenhouse.io/x/jobs/5203",
+   "updated_at": "2026-10-06T17:00:00Z",
+   "first_published": "2026-10-06T17:00:00Z",
+   "content": "&lt;p&gt;Untitled posting from a broken feed.&lt;/p&gt;",
+   "departments": [
+    {
+     "name": "Engineering"
+    }
+   ],
+   "offices": [
+    {
+     "name": "Toronto"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "total": 3
+ }
+}

@@ -1,4 +1,8 @@
 venv/
+.venv/
 __pycache__/
 *.pyc
-outputs/*.db
+.pytest_cache/
+data/*.db
+reports/report.md
+.env

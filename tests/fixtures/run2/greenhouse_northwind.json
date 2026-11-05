@@ -1,0 +1,133 @@
+{
+ "jobs": [
+  {
+   "id": 4101,
+   "title": "Data Engineer Intern (Summer 2027)",
+   "location": {
+    "name": "Vancouver, British Columbia, Canada"
+   },
+   "absolute_url": "https://boards.greenhouse.io/x/jobs/4101",
+   "updated_at": "2026-10-20T17:00:00Z",
+   "first_published": "2026-10-20T17:00:00Z",
+   "content": "&lt;p&gt;Join our data platform team.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Python, SQL, Airflow, Snowflake, dbt&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Pay range: $40 - $46 per hour CAD&lt;/p&gt;",
+   "departments": [
+    {
+     "name": "Engineering"
+    }
+   ],
+   "offices": [
+    {
+     "name": "Vancouver, British Columbia, Canada"
+    }
+   ]
+  },
+  {
+   "id": 4103,
+   "title": "Analytics Engineer",
+   "location": {
+    "name": "Toronto, Ontario, Canada"
+   },
+   "absolute_url": "https://boards.greenhouse.io/x/jobs/4103",
+   "updated_at": "2026-09-15T17:00:00Z",
+   "first_published": "2026-09-15T17:00:00Z",
+   "content": "&lt;p&gt;Model data with dbt and SQL; build dashboards in Looker. Experience with BigQuery is a plus.&lt;/p&gt;&lt;p&gt;Compensation: $110K \u2013 $130K&lt;/p&gt;",
+   "departments": [
+    {
+     "name": "Engineering"
+    }
+   ],
+   "offices": [
+    {
+     "name": "Toronto, Ontario, Canada"
+    }
+   ]
+  },
+  {
+   "id": 4104,
+   "title": "Software Engineer, Backend",
+   "location": {
+    "name": "Remote - Canada"
+   },
+   "absolute_url": "https://boards.greenhouse.io/x/jobs/4104",
+   "updated_at": "2026-10-28T17:00:00Z",
+   "first_published": "2026-10-28T17:00:00Z",
+   "content": "&lt;p&gt;Build REST APIs with Go and PostgreSQL. You&#x27;ll work with Docker and CI/CD (GitHub Actions).&lt;/p&gt;&lt;p&gt;We value people who excel at clear communication.&lt;/p&gt;",
+   "departments": [
+    {
+     "name": "Engineering"
+    }
+   ],
+   "offices": [
+    {
+     "name": "Remote - Canada"
+    }
+   ]
+  },
+  {
+   "id": 4105,
+   "title": "Software Engineer, Backend",
+   "location": {
+    "name": "Remote (Canada)"
+   },
+   "absolute_url": "https://boards.greenhouse.io/x/jobs/4105",
+   "updated_at": "2026-10-29T17:00:00Z",
+   "first_published": "2026-10-29T17:00:00Z",
+   "content": "&lt;p&gt;Build REST APIs with Go and PostgreSQL.&lt;/p&gt;",
+   "departments": [
+    {
+     "name": "Engineering"
+    }
+   ],
+   "offices": [
+    {
+     "name": "Remote (Canada)"
+    }
+   ]
+  },
+  {
+   "id": 4106,
+   "title": "Data Analyst",
+   "location": {
+    "name": "Vancouver, BC"
+   },
+   "absolute_url": "https://boards.greenhouse.io/x/jobs/4106",
+   "updated_at": "2025-06-01T17:00:00Z",
+   "first_published": "2025-06-01T17:00:00Z",
+   "content": "&lt;p&gt;SQL, Tableau and Excel.&lt;/p&gt;",
+   "departments": [
+    {
+     "name": "Engineering"
+    }
+   ],
+   "offices": [
+    {
+     "name": "Vancouver, BC"
+    }
+   ]
+  },
+  {
+   "id": 4107,
+   "title": "Machine Learning Engineer, New Grad",
+   "location": {
+    "name": "Vancouver, BC"
+   },
+   "absolute_url": "https://boards.greenhouse.io/x/jobs/4107",
+   "updated_at": "2026-11-03T17:00:00Z",
+   "first_published": "2026-11-03T17:00:00Z",
+   "content": "&lt;p&gt;Ship models with PyTorch and Python. Some experience with LLMs and RAG.&lt;/p&gt;&lt;p&gt;Salary: CA$105,000 - CA$120,000 per year&lt;/p&gt;",
+   "departments": [
+    {
+     "name": "Engineering"
+    }
+   ],
+   "offices": [
+    {
+     "name": "Vancouver, BC"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "total": 6
+ }
+}

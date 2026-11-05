@@ -1,0 +1,7 @@
+# Fictional companies used by `python -m jobetl run --offline` and the tests.
+# Their saved API responses live in data/sample/, in each job board's real response format.
+companies:
+  - { name: Northwind Analytics, ats: greenhouse, slug: northwind }
+  - { name: Harbour Bank,        ats: greenhouse, slug: harbourbank }
+  - { name: Cascade Energy,      ats: lever,      slug: cascade }
+  - { name: Kestrel AI,          ats: ashby,      slug: kestrel }
