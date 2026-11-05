@@ -1,0 +1,65 @@
+[
+ {
+  "id": "c-1",
+  "text": "Data Engineering Co-op",
+  "categories": {
+   "commitment": "Co-op",
+   "location": "Vancouver, BC",
+   "team": "Data"
+  },
+  "createdAt": 1792281600000,
+  "hostedUrl": "https://jobs.lever.co/cascade/c-1",
+  "descriptionPlain": "Help us modernise grid analytics.",
+  "lists": [
+   {
+    "text": "You have",
+    "content": "<li>Python and SQL</li><li>Spark or PySpark</li><li>Exposure to AWS (S3, Glue)</li>"
+   }
+  ],
+  "additionalPlain": "",
+  "workplaceType": "hybrid",
+  "salaryRange": {
+   "min": 36,
+   "max": 42,
+   "currency": "CAD",
+   "interval": "per-hour-wage"
+  }
+ },
+ {
+  "id": "c-2",
+  "text": "Full Stack Developer",
+  "categories": {
+   "commitment": "Full-time",
+   "location": "Calgary, AB",
+   "team": "Product"
+  },
+  "createdAt": 1791417600000,
+  "hostedUrl": "https://jobs.lever.co/cascade/c-2",
+  "descriptionPlain": "Build customer dashboards with React, TypeScript and Node.js on Azure.",
+  "lists": [],
+  "additionalPlain": "",
+  "workplaceType": "onsite",
+  "salaryRange": {
+   "min": 95000,
+   "max": 115000,
+   "currency": "CAD",
+   "interval": "per-year-salary"
+  }
+ },
+ {
+  "id": "c-3",
+  "text": "Platform Engineer",
+  "categories": {
+   "commitment": "Full-time",
+   "location": "Seattle, WA",
+   "team": "Infra"
+  },
+  "createdAt": 1790640000000,
+  "hostedUrl": "https://jobs.lever.co/cascade/c-3",
+  "descriptionPlain": "Kubernetes, Terraform and Go on AWS.",
+  "lists": [],
+  "additionalPlain": "",
+  "workplaceType": "remote",
+  "salaryDescriptionPlain": "$165,000 - $195,000 USD per year"
+ }
+]

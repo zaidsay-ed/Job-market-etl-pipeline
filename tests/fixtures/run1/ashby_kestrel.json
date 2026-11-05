@@ -1,0 +1,73 @@
+{
+ "jobs": [
+  {
+   "id": "k-1",
+   "title": "Machine Learning Intern",
+   "location": "Remote - Canada",
+   "secondaryLocations": [],
+   "isListed": true,
+   "isRemote": true,
+   "workplaceType": "Remote",
+   "employmentType": "Intern",
+   "publishedAt": "2026-10-25T16:00:00.000+00:00",
+   "jobUrl": "https://jobs.ashbyhq.com/kestrel/k-1",
+   "descriptionPlain": "Fine-tune LLMs with PyTorch. Build RAG evaluation tooling in Python. Docker experience helps.",
+   "compensation": {
+    "compensationTierSummary": "CA$7,000 per month",
+    "summaryComponents": [
+     {
+      "compensationType": "Salary",
+      "interval": "1 MONTH",
+      "currencyCode": "CAD",
+      "minValue": 7000,
+      "maxValue": 7000
+     }
+    ]
+   }
+  },
+  {
+   "id": "k-2",
+   "title": "Senior Data Scientist",
+   "location": "Montr\u00e9al",
+   "secondaryLocations": [
+    {
+     "location": "Toronto"
+    }
+   ],
+   "isListed": true,
+   "isRemote": false,
+   "workplaceType": "Hybrid",
+   "employmentType": "FullTime",
+   "publishedAt": "2026-10-10T16:00:00.000+00:00",
+   "jobUrl": "https://jobs.ashbyhq.com/kestrel/k-2",
+   "descriptionPlain": "Experimentation and causal inference in Python and SQL; A/B testing at scale.",
+   "compensation": {
+    "compensationTierSummary": "$140K \u2013 $170K \u2022 Offers Equity",
+    "summaryComponents": [
+     {
+      "compensationType": "Salary",
+      "interval": "1 YEAR",
+      "currencyCode": "CAD",
+      "minValue": 140000,
+      "maxValue": 170000
+     },
+     {
+      "compensationType": "EquityPercentage",
+      "minValue": 0.01,
+      "maxValue": 0.05
+     }
+    ]
+   }
+  },
+  {
+   "id": "k-3",
+   "title": "Internal transfer only",
+   "location": "Toronto",
+   "isListed": false,
+   "employmentType": "FullTime",
+   "publishedAt": "2026-10-10T16:00:00.000+00:00",
+   "jobUrl": "",
+   "descriptionPlain": "Not public."
+  }
+ ]
+}
