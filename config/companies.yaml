@@ -1,0 +1,35 @@
+# Companies to track, and which public job board each uses.
+#   ats:  greenhouse | lever | ashby
+#   slug: the company's id on that board, e.g. boards.greenhouse.io/<slug>, jobs.lever.co/<slug>,
+#         jobs.ashbyhq.com/<slug>
+#
+# Starter list: slugs change when companies switch job boards, so run
+#   python -m jobetl check-sources
+# and fix or remove any line that prints FAIL. Find a slug by opening the company's careers page and
+# looking at the job links (they point to greenhouse.io, lever.co or ashbyhq.com).
+
+companies:
+  # Canada-based or with large Canadian teams
+  - { name: Cohere,       ats: ashby,      slug: cohere }
+  - { name: Wealthsimple, ats: ashby,      slug: wealthsimple }
+  - { name: Faire,        ats: greenhouse, slug: faire }
+  - { name: Samsara,      ats: greenhouse, slug: samsara }
+  - { name: Databricks,   ats: greenhouse, slug: databricks }
+  - { name: Stripe,       ats: greenhouse, slug: stripe }
+  - { name: Coinbase,     ats: greenhouse, slug: coinbase }
+  - { name: Instacart,    ats: greenhouse, slug: instacart }
+  - { name: Lyft,         ats: greenhouse, slug: lyft }
+  - { name: Dropbox,      ats: greenhouse, slug: dropbox }
+  - { name: Pinterest,    ats: greenhouse, slug: pinterest }
+  - { name: Reddit,       ats: greenhouse, slug: reddit }
+  - { name: Datadog,      ats: greenhouse, slug: datadog }
+  - { name: Twilio,       ats: greenhouse, slug: twilio }
+  - { name: Cloudflare,   ats: greenhouse, slug: cloudflare }
+  - { name: Robinhood,    ats: greenhouse, slug: robinhood }
+  - { name: Airbnb,       ats: greenhouse, slug: airbnb }
+  - { name: Figma,        ats: greenhouse, slug: figma }
+  - { name: Notion,       ats: ashby,      slug: notion }
+  - { name: Ramp,         ats: ashby,      slug: ramp }
+  - { name: Plaid,        ats: lever,      slug: plaid }
+  # Add Vancouver companies you want to track here, e.g.
+  # - { name: Example Co, ats: lever, slug: exampleco }
